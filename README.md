@@ -47,6 +47,17 @@ NLP-Text-Summarizer/
 ├── README.md
 └── screenshots/
 
+## Screenshots
+
+### Home Screen
+![Home](home.png)
+
+### Input Text
+![Input](input.png)
+
+### Generated Summary
+![Summary](summary.png)
+
 ## Author
 
 Priyanshi Gupta
