@@ -74,10 +74,5 @@ clear_button.pack(pady=5)
 summary_output = tk.Label(window, text="", font=("Arial", 11), wraplength=550, justify="left", bg="#f2f2f2")
 summary_output.pack(pady=10)
 
-# Footer
-footer = tk.Label(window, text="✨ Made by Priyanshi Gupta ✨", font=("Arial", 10, "italic"),
-                  fg="#777", bg="#f2f2f2", anchor="e")
-footer.place(relx=1.0, rely=1.0, anchor="se", x=-10, y=-10)  # Bottom-right corner with margin
-
 # Run the GUI
 window.mainloop()
